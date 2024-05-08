@@ -1,12 +1,12 @@
-CID_050_Athena_Commando_M_HolidayNutcracker, 2000
-CID_135_Athena_Commando_F_Jailbird, 1500
-EID_WackyWavy, 500
+CID_A_413_Athena_Commando_M_Glare, 1200
+CID_A_256_Athena_Commando_F_UproarBraids_8IOZW, 1200
+CID_A_329_Athena_Commando_F_Uproar_I5N5Z, 800
+CID_660_Athena_Commando_F_BandageNinjaBlue, 1500
 na
 na
-na
-Wrap_195_StreetRat, 500
-EID_Bendy, 500
-Glider_ID_041_Basketball, 800
-CID_667_Athena_Commando_M_ArcticCamo_Dark, 1200
-Pickaxe_ID_397_TechExplorerMale1H, 800
-Pickaxe_ID_030_ArtDeco, 800
+Wrap_077_StormSoldier, 500
+Wrap_065_AssassinSuit01, 300
+Pickaxe_IronBlaze, 800
+Pickaxe_ID_202_AshtonBoardwalk, 800
+Glider_ID_110_TeriyakiFish, 500
+
